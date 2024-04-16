@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">In App Rating</string>
+    <string name="method_is_available">is_available</string>
+    <string name="method_request_review">request_review</string>
+    <string name="method_open_store">open_store</string>
+    <string name="in_app_review">in_app_review</string>
+</resources>
