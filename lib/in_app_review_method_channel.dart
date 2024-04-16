@@ -11,7 +11,7 @@ import 'in_app_review_platform_interface.dart';
 /// for reviewing or rating the app.
 class MethodChannelInAppReview extends InAppReviewPlatform {
   // Method channel for communication between Dart and native code.
-  MethodChannel _channel = const MethodChannel('in_app_rating');
+  MethodChannel _channel = const MethodChannel('in_app_review');
 
   // Platform information for determining the operating system.
   Platform _platform = const LocalPlatform();
